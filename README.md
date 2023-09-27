@@ -1,9 +1,8 @@
 ### Olá tudo bem? Seja bem-vindo ao meu espaço.. me chamo Rafael Vieira 👋
 
-- 🔭 Hoje trabalho com Dynamics AX 2009.
-- 🌱 Estudando C#
-- 💬 Pergunte-me sobre C#, Dynamics AX 2009 X++. 
-- 😄 Pronouns: ele/dele/dev 
+- 🔭 Hoje trabalho com .NET 6 E c# 10 .
+- 🌱 Estudando C#, React e Tailwindcss.
+- 💬 Pergunte-me sobre C#, Dynamics AX 2009 X++, ReactJs e etc... 
 
 <div>
   <a href="https://github.com/DrFaelSan">
