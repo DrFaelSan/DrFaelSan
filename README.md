@@ -1,8 +1,6 @@
 ### Olá tudo bem? Seja bem-vindo ao meu espaço.. me chamo Rafael Vieira 👋
 
-- 🔭 Hoje trabalho com .NET 6 e c# 10 .
-- 🌱 Estudando C#, React e Tailwindcss.
-- 💬 Pergunte-me sobre C#, Dynamics AX 2009 X++, ReactJs e etc... 
+- 🔭 Hoje trabalho com a plataforma .NET 
 
 <div>
   <a href="https://github.com/DrFaelSan">
